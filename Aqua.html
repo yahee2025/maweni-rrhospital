@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uploading profile</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <img style="margin-left: 800px; margin-top: 0px;" src="mawen.jpg" width="300" height="200">
+
+    <div class="container">
+        <div id="photoFrame"></div>
+    <img id="upload" class="photo-frame"  src="">
+    <input type="file" accept="image/*" onchange="loadImage(event)">
+</div>
+<div class="text-box">Exicited to attend</div>
+<br>
+<div class="text-box"><i class="fa-solid fa-calendar-days"></i>26 july 2025</div>
+<div class="ret"><i class="fas fa-map-marker-alt"></i>Aqua beach</div>
+<div class="text-box"><i class="fa-solid fa-tty"></i>0612069953</div>
+<div class="ret">Vist:  https://yahee2025.github.io/maweni-rrhospital</div>
+
+
+    <script>
+        const loadImage = (event) =>{
+        const image = document.getElementById('upload');
+        image.src = URL.createObjectURL(event.target.files[0]);
+
+        };
+    </script>
+    
+</body>
+</html>
