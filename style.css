@@ -11,8 +11,8 @@ body{
 }
 
 .photo-frame{
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     border-radius: 50%;
     border:10px solid blueviolet;
     background: linear-gradient(to right,#00d084,#3b80f9);
@@ -35,8 +35,8 @@ input[type="file"]{
 }
 .text{
     color: white;
-    font-size: 30px;
-    margin-left: 600px;
+    font-size: 40px;
+    margin-left: 400px;
 }
 
     
