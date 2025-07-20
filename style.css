@@ -31,15 +31,12 @@ body{
 
 input[type="file"]{
     margin-bottom: 20px;
-}
 
-.text-box{
-    font-size: 30px;
-    color: white
 }
 
 .ret{
     font-size: 30px;
     color: white;
+    margin-left:0px;
     
 }
