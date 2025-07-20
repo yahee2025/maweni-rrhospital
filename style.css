@@ -1,6 +1,5 @@
 body{
     font-family: 'Times New Roman', Times, serif;
-    padding: 20px;
     background-color: blue;
     font-size: 18px;
 }
@@ -36,7 +35,7 @@ input[type="file"]{
 
 .text-box{
     font-size: 30px;
-    margin-left: 800px;
+    margin: center;
     color: white
 }
 
