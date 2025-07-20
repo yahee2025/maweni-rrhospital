@@ -1,7 +1,7 @@
 body{
     font-family: 'Times New Roman', Times, serif;
     background-color: blue;
-    font-size: 18px;
+    font-size: 30px;
 }
 
 .container{
@@ -34,9 +34,9 @@ input[type="file"]{
 
 }
 .text{
-    color:white;
-    font-size:30px;
-    margin-left:600px;
+    color: white;
+    font-size: 30px;
+    margin-left: 600px;
 }
 
     
@@ -44,6 +44,6 @@ input[type="file"]{
 .ret{
     font-size: 30px;
     color: white;
-    margin-left:0px;
-    
+    margin-left: 0px;
+     
 }
