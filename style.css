@@ -13,8 +13,8 @@ body{
 }
 
 .photo-frame{
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     border-radius: 50%;
     border:10px solid blueviolet;
     background: linear-gradient(to right,#00d084,#3b80f9);
