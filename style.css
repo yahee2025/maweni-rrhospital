@@ -7,9 +7,9 @@
 }
 
 .photo-frame{
-    width: 100px;
-    height: 200px;
-    border-radius: 30%;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
     border:10px solid blueviolet;
     background: linear-gradient(to right,#00d084,#3b80f9);
     overflow: hidden;
