@@ -30,7 +30,7 @@ input[type="file"]{
 
 }
 .text{
-    color: white;
+    color: blue;
     font-size: 60px;
     
 }
@@ -39,7 +39,7 @@ input[type="file"]{
 
 .ret{
     font-size: 30px;
-    color: white;
+    color: blue;
     margin-left: 0px;
     
      
