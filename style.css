@@ -1,10 +1,4 @@
-@media(max-width:600px;{
-body{
-    font-family: 'Times New Roman', Times, serif;
-    background-color: white;
-    font-size: 30px;
-    padding:10px;
-}
+
 
 .container{
     display: flex;
@@ -50,4 +44,4 @@ input[type="file"]{
     padding:20px;
      
 }
-}
+
